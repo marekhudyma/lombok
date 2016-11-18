@@ -1,0 +1,1 @@
+install IntelliJ plugin lombok
